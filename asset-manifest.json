@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/.github.io/Card-Picker/static/css/main.5c30ffde.css",
-    "main.js": "/.github.io/Card-Picker/static/js/main.7f8744b8.js",
-    "static/media/starting_sound.wav": "/.github.io/Card-Picker/static/media/starting_sound.a7022fca9be01d175603.wav",
-    "static/media/background.jpg": "/.github.io/Card-Picker/static/media/background.9d117977c3702a4cb127.jpg",
-    "index.html": "/.github.io/Card-Picker/index.html",
-    "main.5c30ffde.css.map": "/.github.io/Card-Picker/static/css/main.5c30ffde.css.map",
-    "main.7f8744b8.js.map": "/.github.io/Card-Picker/static/js/main.7f8744b8.js.map"
+    "main.css": "/Card-Picker/static/css/main.7ebaf268.css",
+    "main.js": "/Card-Picker/static/js/main.56ca9d54.js",
+    "static/media/starting_sound.wav": "/Card-Picker/static/media/starting_sound.a7022fca9be01d175603.wav",
+    "static/media/background.jpg": "/Card-Picker/static/media/background.9d117977c3702a4cb127.jpg",
+    "index.html": "/Card-Picker/index.html",
+    "main.7ebaf268.css.map": "/Card-Picker/static/css/main.7ebaf268.css.map",
+    "main.56ca9d54.js.map": "/Card-Picker/static/js/main.56ca9d54.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c30ffde.css",
-    "static/js/main.7f8744b8.js"
+    "static/css/main.7ebaf268.css",
+    "static/js/main.56ca9d54.js"
   ]
 }
